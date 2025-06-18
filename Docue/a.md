@@ -46,6 +46,6 @@ Version has park mark.
 
 Version has park cross.
 
-Version is did. 
+Version is did.
 
 Version has major.
