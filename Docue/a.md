@@ -49,3 +49,9 @@ Version has park cross.
 Version is did.
 
 Version has major.
+
+Version has commit.
+
+Version commit has ident.
+
+Version commit ident is Int value.
