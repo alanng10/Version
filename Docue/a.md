@@ -55,3 +55,5 @@ Version has commit.
 Version commit has ident.
 
 Version commit ident is Int value.
+
+Version commit ident has limitel 1 exa.
