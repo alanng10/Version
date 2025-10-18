@@ -65,6 +65,9 @@ The String value is char count min 3 and max 24.
 The Int value is branch mod index.
 The Int value has limitel 1 exa.
 
+Version commit ident string is the String value, follow by colon char,
+follow by pad lead zero 15 hex char of the Int value.
+
 Version branch commit is order from mod index 0 as first commit to most mod index as last commit.
 
 Version branch commit is diff forward to more high index.
