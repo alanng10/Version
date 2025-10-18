@@ -60,7 +60,7 @@ Version commit ident is 1 String value and 1 Int value.
 
 The String value is branch name.
 The String value valid char not include space and colon.
-The String value is char count min 3.
+The String value is char count min 3 and max 24.
 The Int value is branch mod index.
 The Int value has limitel 1 exa.
 
