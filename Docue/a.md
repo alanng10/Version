@@ -58,9 +58,9 @@ Version commit has ident.
 
 Version commit ident is 1 String value and 1 Int value.
 
-The String value is branch name;
+The String value is branch name.
 The String value valid char not include space, hyphen and colon.
-The Int value is branch mod index;
+The Int value is branch mod index.
 The Int value has limitel 1 exa.
 
 Version branch commit is order from mod index 0 as first commit to most mod index as last commit.
