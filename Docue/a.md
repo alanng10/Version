@@ -62,6 +62,4 @@ Version commit is order from index 0 as first commit to most index as last commi
 
 Version commit is diff forward to more high index.
 
-Version has un branch.
-
-Version has un branch depend.
+Version has branch.
