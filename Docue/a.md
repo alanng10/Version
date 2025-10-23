@@ -75,3 +75,5 @@ Version branch commit is diff forward to more high index.
 Version store history data with 1 fold for never branch name.
 
 Version diff patch range is any text range.
+
+Version diff patch range is base on char index.
