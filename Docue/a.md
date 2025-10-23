@@ -73,3 +73,5 @@ Version branch commit is order from mod index 0 as first commit to most mod inde
 Version branch commit is diff forward to more high index.
 
 Version store history data with 1 fold for never branch name.
+
+Version diff patch range is any text range.
