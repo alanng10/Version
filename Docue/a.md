@@ -81,3 +81,6 @@ Version diff patch range is base on char index.
 Version has none more alpha element than the Version share by AlanNg to USA govern from yea 1948 to 1962.
 
 Version has equiv alpha element.
+
+Version data format can be convert.
+The convert can un mod mine in history.
